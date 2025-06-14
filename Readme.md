@@ -148,3 +148,71 @@ Kiểm tra và xóa các hàng cột thiếu
 ![img_48.png](img_48.png)
 
 ![img_49.png](img_49.png)
+
+<h1>Tiền xử lý dữ liệu</h1>
+
+![img_50.png](img_50.png)
+
+![img_51.png](img_51.png)
+
+![img_52.png](img_52.png)
+
+
+![img_53.png](img_53.png)
+
+![img_54.png](img_54.png)
+
+![img_55.png](img_55.png)
+
+
+Biến giải
+
+![img_56.png](img_56.png)
+Mã hóa one hot
+
+![img_57.png](img_57.png)
+
+
+Maplotlib vẽ đồ thị 
+
+![img_58.png](img_58.png)
+
+
+Scikit-learn cho MC
+![img_59.png](img_59.png)
+
+![img_60.png](img_60.png)
+
+![img_62.png](img_62.png)
+
+![img_63.png](img_63.png)
+![img_61.png](img_61.png)
+
+![img_64.png](img_64.png)
+
+![img_65.png](img_65.png)
+
+![img_66.png](img_66.png)
+
+NLTK CHO NLP
+
+![img_67.png](img_67.png)
+
+
+Gợi ý từ cho NLP (BOW)
+
+![img_68.png](img_68.png)
+
+Quan trọng tới tần suất xuất hiện
+![img_69.png](img_69.png)
+
+![img_70.png](img_70.png)
+![img_71.png](img_71.png)
+
+![img_72.png](img_72.png)
+
+![img_73.png](img_73.png)
+![img_74.png](img_74.png)
+
+![img_75.png](img_75.png)
+![img_76.png](img_76.png)
