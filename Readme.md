@@ -26,8 +26,8 @@ pip install Flask
 
 
 
-
-<a href="https://www.youtube.com/watch?v=59XV4o8hOBk&list=PL-DKonjOZsHbZZ_xQC0HS46vBviytJJPg&index=3" target="_blank"> Link tutorial Machine Learning  <a/> 
+<h1><a href="https://www.youtube.com/watch?v=59XV4o8hOBk&list=PL-DKonjOZsHbZZ_xQC0HS46vBviytJJPg&index=3" target="_blank"> Link tutorial Machine Learning  <a/> 
+</h1>
 
 <h1>Numpy </h1>
 ![img_3.png](img_3.png)
