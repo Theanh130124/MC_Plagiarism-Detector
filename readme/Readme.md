@@ -24,6 +24,9 @@ pip install Flask
 
 ![img_2.png](img_2.png)
 
+
+https://docs.google.com/document/d/1WhmB_A3O86Agp1BDfeoYp6fPRPiINWNEsZypACL7bGY/edit?tab=t.0
+
 <h1> <a href="https://docs.google.com/document/d/1BZfWzpG2LlZ02xCPd9y15jDhdht_MPT1nNb1gvpUbVc/edit?hl=vi&tab=t.0" target="_blank" alt="Link" >Link docs </a></h1>
 
 <h1><a href="https://www.youtube.com/watch?v=59XV4o8hOBk&list=PL-DKonjOZsHbZZ_xQC0HS46vBviytJJPg&index=3" target="_blank"> Link tutorial Machine Learning  <a/> 
